@@ -3567,6 +3567,7 @@ body.is-menu-visible #menu {
   display: block;
   height: inherit;
   line-height: inherit;
+  color: white;
 }
 
 @media screen and (max-width: 736px) {
