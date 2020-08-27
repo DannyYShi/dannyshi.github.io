@@ -3569,10 +3569,6 @@ body.is-menu-visible #menu {
   line-height: inherit;
 }
 
-#header h1 > a {
-  color: white;
-}
-
 @media screen and (max-width: 736px) {
   #header h1 a {
     font-size: 0.8em;
