@@ -3567,6 +3567,9 @@ body.is-menu-visible #menu {
   display: block;
   height: inherit;
   line-height: inherit;
+}
+
+#header h1 > a {
   color: white;
 }
 
